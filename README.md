@@ -1,4 +1,4 @@
-<img width="109" height="57" alt="image" src="https://github.com/user-attachments/assets/91f2b687-e8fd-4cbb-abcc-33e9af9cf1fe" /># GMS2 기초 상식
+# GMS2 기초 상식
 ##### 겜스 네이버카페 : https://cafe.naver.com/crazygm
 ##### 겜스 도움말 : https://manual.gamemaker.io/monthly/en/#t=Content.htm
 ##### 도트캣 블로그 : https://blog.naver.com/dot_cat
